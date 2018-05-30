@@ -1097,7 +1097,7 @@ var app = function(modules) {
 						};
 					}();
 					return function(port) {
-						var socket = new WebSocket('ws://arras-agarian.c9users.io:' + serverPort);
+						var socket = new WebSocket('ws://thrillerx.herokuapp.com:' + 80);
 						// Beta-tester commands
 						window['help'] = function help() {
 							console.log('Here is a list of commands and their usages:');
