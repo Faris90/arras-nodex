@@ -1,6 +1,6 @@
 {
-	"host": "arras-agarian.c9users.io",
-	"port": 8080,
+	"host": "thrillerx.herokuapp.com",
+	"port": 3000,
 	"servesStatic": true,
 	"logpath": "logger.php",
 	"networkUpdateFactor": 24,
